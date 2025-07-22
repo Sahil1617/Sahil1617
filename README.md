@@ -1,19 +1,17 @@
 <h1 align="center">Hii👋 I'm SAHIL JADHAV</h1>
 
 
-<p align="left">
-👋 <strong>Hello! I'm a dedicated Full-Stack Web Developer</strong> currently pursuing a <strong>B.E. in Computer Engineering</strong> at <strong>TCOER, Pune</strong>.
-</p>
 
-<p align="left">
+
+<h3 align="left">
 💻 I specialize in crafting <strong>robust, scalable, and user-driven web applications</strong> using cutting-edge technologies like <strong>React.js</strong>, <strong>Express.js</strong>, <strong>Node.js</strong>, and <strong>MongoDB</strong>. I also have solid expertise in <strong>PHP</strong> and <strong>MySQL</strong> for dynamic backend development, along with a strong grasp of <strong>Java programming</strong> and implementing <strong>Data Structures and Algorithms (DSA)</strong> in Java to build efficient, high-performance solutions.
-</p>
+</h3>
 
 <br>
 
-<p align="left">
+<h3 align="left">
 🎯 I’m currently exploring and building my skills in:
-</p>
+</h3>
 
 <ul>
   <li><strong>WordPress development</strong> — learning to create custom <strong>plugins</strong>, <strong>themes</strong>, and perform site <strong>customizations</strong></li>
